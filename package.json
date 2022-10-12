@@ -1,0 +1,27 @@
+{
+  "name": "booksharemarket-backend",
+  "version": "1.0.0",
+  "description": "Backend of Book Share Market Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdemena/booksharemarket-backend.git"
+  },
+  "keywords": [
+    "book",
+    "books",
+    "share",
+    "library",
+    "libraries",
+    "market"
+  ],
+  "author": "Marc De Mena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdemena/booksharemarket-backend/issues"
+  },
+  "homepage": "https://github.com/mdemena/booksharemarket-backend#readme"
+}
